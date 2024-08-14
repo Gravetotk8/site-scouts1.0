@@ -8,9 +8,15 @@
 
         <!-- Produto Quantidade e Valor -->
         <div id="produtosContainer" class="mb-3">
+
             <div class="mb-3">
                 <label for="produtoNome" class="form-label fw-bold">Produto:</label>
                 <input type="text" class="form-control" id="produtoNome" name="produtoNome">
+            </div>
+            
+            <div class="mb-3">
+                <label for="marcaNome" class="form-label fw-bold">Marca:</label>
+                <input type="text" class="form-control" id="marcaNome" name="marcaNome">
             </div>
 
             <div class="col-md-5 mb-3">

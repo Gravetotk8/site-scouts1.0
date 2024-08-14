@@ -1,0 +1,13 @@
+body {
+    background-color: #28a745 !important; 
+  }
+  
+.table td, .table th {
+    text-align: center; /* Centraliza horizontalmente */
+    vertical-align: middle; /* Centraliza verticalmente */
+    border-radius: 0.5rem; /* Campo arredondado */
+}
+
+.table th {
+    background-color: #f2f2f2;
+}

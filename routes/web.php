@@ -30,3 +30,7 @@ Route::get('/trocarsenha', function () {
     return view('trocarsenha');
 });
 
+Route::get('/exibirestoque', function () {
+    return view('exibirestoque');
+});
+

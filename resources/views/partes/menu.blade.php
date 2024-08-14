@@ -12,6 +12,7 @@
         <li class="nav-item"><a href="/vendas" class="nav-link">Vendas</a></li>
         <li class="nav-item"><a href="/estoque" class="nav-link">Estoque</a></li>
         <li class="nav-item"><a href="/consultaestoque" class="nav-link">Consulta Estoque</a></li>
+        <li class="nav-item"><a href="/exibirestoque" class="nav-link">Exibir Estoque</a></li>
         <li class="nav-item"><a href="/criarconta" class="nav-link">Criar Conta</a></li>
         <li class="nav-item"><a href="/trocarsenha" class="nav-link">Trocar Senha</a></li>
         <li class="nav-item"><a href="/login" class="nav-link">Login</a></li>
